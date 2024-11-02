@@ -19,4 +19,4 @@ When this function is called, it adds a new entry to the nameToFavoriteNumber ma
 
 I did not face much challenges except for when I wanted to modify  the addperson function.
 
-but with the discussions with other developers and instructors it was made easy.
+but with the discussions with other developers and instructors it was made easy and  some YouTube videos as well I also prompted AI for some ideas.
